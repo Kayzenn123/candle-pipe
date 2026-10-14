@@ -1,0 +1,1 @@
+{"bin":{"candle-pipe":"bin/candle-pipe.js"},"description":"Pipe-friendly OHLC timeframe converter: CSV candles in via stdin, coarser timeframe out via stdout","engines":{"node":">=18"},"files":["bin","test"],"license":"MIT","name":"candle-pipe","scripts":{"test":"node --test"},"version":"1.0.0"}
